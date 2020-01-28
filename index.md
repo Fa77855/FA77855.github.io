@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Charm City: Vacant Buildings & Rats 
 
-[Project 1 Title](/sample_page)
+[Vacant Buildings](/sample_page)
 <img src="images/Vacant_Buildings.JPG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Calls About Rats](/pdf/sample_presentation.pdf)
 <img src="images/Rat_Calls.JPG?raw=true"/>
 
 
