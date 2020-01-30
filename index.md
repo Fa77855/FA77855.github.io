@@ -1,8 +1,8 @@
 ## Portfolio
 
 ---
-
-### Charm City: Vacant Buildings & Rats 
+### Experience with GIS 
+### Charm City: Vacancy & Rats Sightings
 
 
 <img src="images/Vacant_Buildings.JPG?raw=true"/>
