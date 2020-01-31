@@ -12,8 +12,9 @@
 <img src="images/Rat_Calls.JPG?raw=true"/>
 
 ### Environmental Sampling
-Preformed Environmental Sampling tests with 3M™ Petrifilm™ Enterobacteriaceae, 3M Petrifilm E. coli, and
+Preformed environmental sampling tests with 3M™ Petrifilm™ Enterobacteriaceae, 3M Petrifilm E. coli, and
 Petrifilm Aerobic Count Plates during an intership at a Spice Company (Results can not be posted due to confidentiality)
+  <br><br>
 Example of how the plates were interpreted:
 
 
