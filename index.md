@@ -23,8 +23,8 @@ Example of how the plates were interpreted:
 ### Ecological Field Surveying 
 Sampled the amount of horsehoes crabs on a beach with Dr.Bushmann from AACC in order to gather more data about the species. Blood samples were also gathered along with the total number of Male/Female crabs seen on each beach.
 
-<img src="images/New_Eb.JPG?raw=true"/>
-<img src="images/New_Eb.JPG?raw=true"/>
+<img src="images/Blood.JPG?raw=true"/>
+<img src="images/Crabs.JPG?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
