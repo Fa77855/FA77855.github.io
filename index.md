@@ -18,7 +18,7 @@ Petrifilm Aerobic Count Plates during an intership at a Spice Company (Results c
 Example of how the plates were interpreted:
 
 
-<img src="images/EB_plates.JPG?raw=true"/>
+<img src="images/New_Eb.JPG?raw=true"/>
 
 
 
