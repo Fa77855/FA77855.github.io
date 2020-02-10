@@ -4,7 +4,7 @@
 ### [GIS Experience](/project_probation/index)
 
 <img src="images/SneakPeakVacancy.png?raw=true"/>
-<img src="images/SneakPeakRat.png.png?raw=true"/>
+<img src="images/SneakPeakRat.png?raw=true"/>
 SneakPeakRat.png
 
 ### [Environmental Sampling](/project_probation/index)
