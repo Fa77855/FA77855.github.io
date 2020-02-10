@@ -16,3 +16,31 @@ Assisted Dr.Bushmann from Anne Arundel Community College in gathering more infor
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
+@import "{{ site.theme }}";
+
+a {
+ color:#6a0dad;
+}
+a:hover,
+a:focus {
+ color:#6a0dad;
+}
+a small {
+ color:#6a0dad;
+}
+a:hover small {
+ color:#6a0dad
+}
+
+body {
+ font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+ font-size: 105%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+ letter-spacing: -0.08em;
+}
+
+header h1 a {
+ font-size: 1.2em;
+}
