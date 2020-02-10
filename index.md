@@ -3,11 +3,7 @@
 ---
 ### [GIS Experience](/project_probation/index)
 
-<img src="images/Vacant_Buildings.JPG?raw=true"/>
-
----
-
-<img src="images/Rat_Calls.JPG?raw=true"/>
+<img src="images/SneakPeakVacancy.JPG?raw=true"/>
 
 ### [Environmental Sampling](/project_probation/index)
 Preformed environmental sampling tests with 3M™ Petrifilm™ Enterobacteriaceae, 3M Petrifilm E. coli, and
