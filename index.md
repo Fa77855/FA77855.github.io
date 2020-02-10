@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-### [GIS Experience: Baltimore](/Project1.md)
+### [GIS Experience: Baltimore](/Project1)
 Created maps based off vacant buildings and rat sightings 
 
 <img src="images/SneakPeakVacancy.png?raw=true"/>
