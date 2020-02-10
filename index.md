@@ -7,7 +7,8 @@
 
 ### [Environmental Sampling](/project_probation/index)
 Preformed environmental sampling tests with 3M™ Petrifilm™ Enterobacteriaceae, 3M Petrifilm E. coli, and
-Petrifilm Aerobic Count Plates during an intership at a Spice Company (Results can not be posted due to confidentiality)
+Petrifilm Aerobic Count Plates during an intership at a Spice Company (Results can not be posted due to confidentiality) shorten
+
   <br><br>
 Example of how the plates were interpreted:
 
