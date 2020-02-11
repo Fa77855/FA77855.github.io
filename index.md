@@ -8,7 +8,7 @@ Created maps based off vacant buildings and rat sightings
 [<img src="images/SneakPeakRat.png?raw=true"/>](/Project1)
 
 ### [Internship at Elite Spice in Jessup, MD](/Project2)
-During my Summer internship I gained experience with several science related surveys and experiments
+During my Summer internship I gained experience with several surveys and experiments
 
 ### [Ecological Field Surveying: Horseshoe Crabs](/Project3) 
 Assisted Dr.Bushmann from Anne Arundel Community College in gathering more information about horseshoe crabs
