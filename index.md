@@ -4,8 +4,8 @@
 ### [GIS Experience: Baltimore](/Project1)
 Created maps based off vacant buildings and rat sightings 
 
-<img src="images/SneakPeakVacancy.png?raw=true"/>
-<img src="images/SneakPeakRat.png?raw=true"/>
+[<img src="images/SneakPeakVacancy.png?raw=true"/>](/Project1)
+[<img src="images/SneakPeakRat.png?raw=true"/>](/Project1)
 
 ### [Internship at Elite Spice in Jessup, MD](/Project2)
 During my Summer internship I gained experience with several science related surveys and experiments
