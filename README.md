@@ -1,15 +1,4 @@
-## Developer Portfolio Landing Page Template
-
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
-
-<img src="images/demo.gif?raw=true"/>
-
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
-
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Taylor Coho
 
 ### Markdown
 
@@ -37,32 +26,7 @@ Syntax highlighted code block
 
 @import "{{ site.theme }}";
 
-a {
- color:#6a0dad;
-}
-a:hover,
-a:focus {
- color:#6a0dad;
-}
-a small {
- color:#6a0dad;
-}
-a:hover small {
- color:#6a0dad
-}
 
-body {
- font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
- font-size: 105%;
-}
-
-h1, h2, h3, h4, h5, h6 {
- letter-spacing: -0.08em;
-}
-
-header h1 a {
- font-size: 1.2em;
-}
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
