@@ -4,7 +4,7 @@
 ### [GIS Experience: Baltimore](/Project1)
 Created maps based off vacant buildings and rat sightings 
 
-### [Web Map](/qgis2web_2020_02_13-16_22_41_243112)
+### [Web Map](/qgis2web_2020_02_13-16_22_41_243112/index.html)
 
 [<img src="images/SneakPeakVacancy.png?raw=true"/>](/Project1)
 [<img src="images/SneakPeakRat.png?raw=true"/>](/Project1)
