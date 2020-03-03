@@ -1,8 +1,8 @@
 # Proposal for first Project 
 ---
-**Topic**
+**Topic** Ideal Neighborhoods for children in Baltimore 
 <br> <br>
-**Data**
+**Data** Shapefiles from Open Baltimore [Open Baltimore] (https://data.baltimorecity.gov/)
 <br> <br>
 **Transformations/Subsets to data**
 <br> <br>
