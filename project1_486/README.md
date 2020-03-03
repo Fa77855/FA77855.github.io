@@ -1,7 +1,11 @@
 # Proposal for first Project 
-
-**Topic**:
-**Data**:
-**Transformations/Subsets to data**:
-**Analysis**: 
-**Outputs**: 
+---
+**Topic**
+<br> <br>
+**Data**
+<br> <br>
+**Transformations/Subsets to data**
+<br> <br>
+**Analysis**
+<br> <br>
+**Outputs**
