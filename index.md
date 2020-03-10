@@ -1,6 +1,6 @@
 ## Portfolio
 ---
-### [Project 1: Most Ideal Neighborhoods in Baltimore for Children](project1_486/Kids_in_Bmore.md)
+### [Project 1: Most Ideal Neighborhoods in Baltimore for Children & Teens](project1_486/Kids_in_Bmore.md)
 [<img src="images/heatmap_no_context.png?raw=true"/>](project1_486/Kids_in_Bmore.md)
 
 ### [GIS Experience: Baltimore](/Project1)
