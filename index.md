@@ -1,6 +1,6 @@
 ## Portfolio
 
-### [Project 1](/Project1_486)
+### [Project 1](/Project1_486/README)
 ---
 ### [GIS Experience: Baltimore](/Project1)
 Created maps based off vacant buildings and rat sightings 
