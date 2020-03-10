@@ -1,3 +1,3 @@
 ### Kids in Baltimore 
 
-<img src="images/Vacant_Buildings.png?raw=true"/>
+<img src="images/HeatMap.PNG?raw=true"/>
