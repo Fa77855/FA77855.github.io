@@ -2,3 +2,6 @@
 
 <img src="../images/HeatMap.PNG"/>
 
+<img src="../images/HeatMap.PNG"/>
+
+<img src="../images/HeatMap.PNG"/>
