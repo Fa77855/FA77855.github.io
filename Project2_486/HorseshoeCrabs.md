@@ -3,7 +3,7 @@
 ### Horseshoecrab Density 
 <img src="../images/CrabDensity.PNG"/>
  
-### [2017 Field Work](project2_486/Fieldwork.md)
+### May & June 2017 Field Observations
 <img src="../images/MayCrabs.PNG"/>
 <img src="../images/June Crabs.PNG"/>
 
