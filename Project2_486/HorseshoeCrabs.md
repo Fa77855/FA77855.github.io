@@ -1,7 +1,7 @@
 ### Horseshoecrab Population Observations 
 
 ### Horseshoecrab Density 
-<img src="../images/HeatMap.PNG"/>
+<img src="../images/CrabDensity.PNG"/>
  
 ### [2017 Field Work](project2_486/Fieldwork.md)
 All the main stuff in here 
