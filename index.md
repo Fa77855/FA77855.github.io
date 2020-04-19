@@ -4,7 +4,7 @@
 [<img src="images/heatmap_no_context.png?raw=true"/>](project1_486/Kids_in_Bmore.md)
 
 ### [Project 2: Horseshoe Crab Density](project2_486/HorseshoeCrabs.md)
-[<img src="images/SneakPeakCrabs.PNG?raw=true"/>](project2_486/HorseshoeCrabs.md)
+[<img src="images/SneakPeakCrabs.png?raw=true"/>](project2_486/HorseshoeCrabs.md)
 
 ### [GIS Experience: Baltimore](/Project1)
 Created maps based off vacant buildings and rat sightings 
