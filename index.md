@@ -3,7 +3,7 @@
 ### [Project 1: Most Ideal Neighborhoods in Baltimore for Children & Teens](project1_486/Kids_in_Bmore.md)
 [<img src="images/heatmap_no_context.png?raw=true"/>](project1_486/Kids_in_Bmore.md)
 
-### [Project 2: Horseshoe Crab Density] (project2_486/HorseshoeCrabs.md)
+### [Project 2: Horseshoe Crab Density](project2_486/HorseshoeCrabs.md)
 
 ### [GIS Experience: Baltimore](/Project1)
 Created maps based off vacant buildings and rat sightings 
