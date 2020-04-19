@@ -1,4 +1,4 @@
-### Horseshoecrab Population Observations 
+### Horseshoecrab Population Observation Study
 Description: While I was a student at Anne Arundel Community College, one of my professors was doing a study on horseshoe crab populations in the Chesapeake Bay. My service learning with this professor consisted of going to a private beach in Lusby MD with other students during high tides over the Summer. The data we collected was the total number of horseshoe crabs, the ratio of male to female, and the GPS coordinates. The aim of this project is to use the data that was collected to make a map that represents the clustering of horseshoe crabs during mating season. 
 <br><br>
 Data: The data was provided by Dr.Bushmann, which was an excel file for each day that field work was completed in months May and June of 2017. Each ecxel file had the number of males and females, pictures, the time and date the picture was taken, latitude, and longitude. 
