@@ -9,9 +9,6 @@
 ### [GIS Experience: Baltimore](/Project1)
 Created maps based off vacant buildings and rat sightings 
 
-[<img src="images/SneakPeakVacancy.png?raw=true"/>](/Project1)
-[<img src="images/SneakPeakRat.png?raw=true"/>](/Project1)
-
 ### [Web Map: Residential Density in Baltimore](/qgis2web_2020_02_18-12_52_39_755525)
 
 ### [Internship at Elite Spice in Jessup, MD](/Project2)
