@@ -1,6 +1,6 @@
 ### Horseshoecrab Population Observations 
 
-### Horseshoecrab Density Heatmap
+### [Horseshoecrab Density Heatmap](/fieldwork.md)
 <img src="../images/CrabDensity.PNG"/>
  
 ### May & June 2017 Field Observations
