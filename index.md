@@ -7,7 +7,7 @@
 [<img src="images/SneakPeakCrabs.PNG?raw=true"/>](Project2_486/HorseshoeCrabs.md)
 
 
-### [Project 3: "America Runs on Dunkin'](Project3_486/HorseshoeCrabs.md)
+### [Project 3: "America Runs on Dunkin'](Project3_486/DunkinsinUS.md)
 
 ### [GIS Experience: Baltimore](/Project1)
 Created maps based off vacant buildings and rat sightings 
