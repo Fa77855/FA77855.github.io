@@ -1,6 +1,6 @@
 ### Does America Run on Dunkin'?
 
-Description: The aim of this project was to map all of the Dunkin Donut locations within the US displaying the density and distribution. A code was made that located where all of the dunkin donuts were from the Dunkin' Donut's website "Find stores". 
+Description: The aim of this project was to map all of the Dunkin Donut locations within the US displaying the density and distribution. The location of the stores were determined through a code that found the locations from Dunkin' Donut's website under "Find stores". 
 
 [<img src="../images/States.PNG"/>](/DunkinWebMap)
 
