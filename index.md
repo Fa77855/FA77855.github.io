@@ -6,7 +6,7 @@
 ### [Project 2: Horseshoe Crab Density](Project2_486/HorseshoeCrabs.md)
 [<img src="images/SneakPeakCrabs.PNG?raw=true"/>](Project2_486/HorseshoeCrabs.md)
 
-### [Project 3: "America Runs on Dunkin'"](Project3_486/DunkinsinUS.md)
+### [Project 3: "America Runs on Dunkin'"](Project3_486/DunkinsinUS.md) 
 [<img src="images/SneakVoronoi.PNG?raw=true"/>](project3_486/Kids_in_Bmore.md)
 
 ### [GIS Experience: Baltimore](/Project1)
